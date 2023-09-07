@@ -4,7 +4,7 @@ import  './chart.css'
 export default function Chart() {
   return (
     <div className='table'>
-      <table class="table">
+      {/* <table class="table">
   <thead>
     <tr>
       <th scope="col">#</th>
@@ -33,7 +33,7 @@ export default function Chart() {
       <td>Paid</td>
     </tr>
   </tbody>
-</table>
+</table> */}
     </div>
   )
 }
